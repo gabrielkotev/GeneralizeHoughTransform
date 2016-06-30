@@ -1,0 +1,8 @@
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\bin\Debug\CiecleHoughCSharp.exe
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\bin\Debug\CiecleHoughCSharp.pdb
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\obj\Debug\GeneralHoughTransform.csprojResolveAssemblyReference.cache
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\obj\Debug\CiecleHoughCSharp.Form1.resources
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\obj\Debug\CiecleHoughCSharp.Properties.Resources.resources
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\obj\Debug\GeneralHoughTransform.csproj.GenerateResource.Cache
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\obj\Debug\CiecleHoughCSharp.exe
+D:\HoughTransform\GeneralizeHoughTransform\CiecleHoughCSharp\obj\Debug\CiecleHoughCSharp.pdb
